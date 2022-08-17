@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alex lima
+### Olá! Eu sou o Alex
 
 - 🌱 Estou estudando Spring boot com thymeleaf
 - 📫 Contate-me no email : hunterbr100@gmail.com
